@@ -1,3 +1,5 @@
+**NOTICE: This repository has been archived, and will no longer be maintained or accept pull requests.**
+
 ## Configurable Custom Control ##
 
 **Configurable Custom Control** for NI VeriStand is a custom control framework which enables users to either import a front panel from an existing VI or easily create a multiple input/output custom control for NI VeriStand. Once the control is brought into NI VeriStand, the user can then map front panel controls and indicators to parameters associated with the NI VeriStand Workspace. 
